@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381844107362",
+    "project_id": "jukee-f2678",
+    "storage_bucket": "jukee-f2678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381844107362:android:6bbfad084fadcff8d7e13b",
+        "android_client_info": {
+          "package_name": "com.project.jukee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEdXDp0tdfxLUzb8RsjpnkUWVAm_GACo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

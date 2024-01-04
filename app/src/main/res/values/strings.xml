@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Jukee</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="didn_t_have_an_account">Didn\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="choose_act">Choose an Act to proceed</string>
+    <string name="john_doe">John Doe!</string>
+    <string name="host">Host</string>
+    <string name="visitor">Visitor</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_activity_host_main">HostMainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="song">Song</string>
+    <string name="playlist">Playlist</string>
+    <string name="title_activity_visitor_main">VisitorMainActivity</string>
+    <string name="scan">Scan</string>
+    <string name="host_mode">Host Mode</string>
+    <string name="visitor_mode">Visitor Mode</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="add_playlist">Add Playlist</string>
+</resources>

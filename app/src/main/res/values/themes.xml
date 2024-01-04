@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Jukee" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Jukee.White" parent="Base.Theme.Jukee">
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+    <style name="Theme.Jukee.Purple" parent="Base.Theme.Jukee">
+        <item name="android:statusBarColor">@color/darkPurple</item>
+    </style>
+
+    <style name="Theme.Jukee" parent="Base.Theme.Jukee" />
+
+    <style name="NavigationTheme" parent="Base.Theme.Jukee">
+        <item name="itemIconTint">@android:color/white</item>
+        <item name="itemTextColor">@android:color/white</item>
+        <item name="android:background">#00ffffff</item>
+    </style>
+
+    <style name="SheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+        <!--<item name="android:windowCloseOnTouchOutside">false</item>-->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackground">     @android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.3</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+</resources>
